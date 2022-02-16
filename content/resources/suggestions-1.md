@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Project Suggestions
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/73f9da6599916825e376a143e3248e69_suggestions.pdf
+file: /media/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/73f9da6599916825e376a143e3248e69_suggestions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: suggestions.pdf
 uid: 73f9da65-9991-6825-e376-a143e3248e69
