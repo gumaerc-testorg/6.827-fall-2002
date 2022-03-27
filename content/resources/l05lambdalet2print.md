@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd64f58a-7ad5-fbb5-7cc7-76e21de6272a
 resourcetype: Document
 title: L05LambdaLet2Print.pdf
 uid: 9921f4e5-0b3d-1fc5-7c36-aaf07adffdad

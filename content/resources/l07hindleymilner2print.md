@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd64f58a-7ad5-fbb5-7cc7-76e21de6272a
 resourcetype: Document
 title: L07HindleyMilner2Print.pdf
 uid: a981df4e-1fd9-1ddf-5cf7-c1a15c5d1b03

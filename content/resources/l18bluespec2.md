@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd64f58a-7ad5-fbb5-7cc7-76e21de6272a
 resourcetype: Document
 title: L18Bluespec2.pdf
 uid: 94da58ed-1d41-d66d-63be-5cd72c48d479

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bd64f58a-7ad5-fbb5-7cc7-76e21de6272a
 resourcetype: Document
 title: L02pH_FunctionalPrint.pdf
 uid: 83f78422-06da-5f51-3f6d-36d76815dbb8

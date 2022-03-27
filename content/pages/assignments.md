@@ -44,13 +44,13 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdopen >}}
 
 
-ps2-3 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps23.hs))
+ps2-3 ([HS]({{< baseurl >}}/resources/ps23))
 
-ps2-4 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps24.hs))
+ps2-4 ([HS]({{< baseurl >}}/resources/ps24))
 
-ps2-5 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps25.hs))
+ps2-5 ([HS]({{< baseurl >}}/resources/ps25))
 
-ps2-6 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps26.hs))
+ps2-6 ([HS]({{< baseurl >}}/resources/ps26))
 
 
 {{< tdclose >}}
@@ -63,13 +63,13 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 {{< tdopen >}}
 
 
-ps3-1 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps31.hs))
+ps3-1 ([HS]({{< baseurl >}}/resources/ps31))
 
-ps3-2 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps32.hs))
+ps3-2 ([HS]({{< baseurl >}}/resources/ps32))
 
-ps3-3 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps33.hs))
+ps3-3 ([HS]({{< baseurl >}}/resources/ps33))
 
-ps3-sample ([FILE](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps3sample1.txt))\*
+ps3-sample ([FILE]({{< baseurl >}}/resources/ps3sample1-1))\*
 
 
 {{< tdclose >}}
@@ -82,11 +82,11 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 {{< tdopen >}}
 
 
-language ([FILE](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/language.txt))\*
+language ([FILE]({{< baseurl >}}/resources/language))\*
 
-ps4-1 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps41.hs))
+ps4-1 ([HS]({{< baseurl >}}/resources/ps41))
 
-ps4-2 ([HS](/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/assignments/ps42.hs))
+ps4-2 ([HS]({{< baseurl >}}/resources/ps42))
 
 
 {{< tdclose >}}
