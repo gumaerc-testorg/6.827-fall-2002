@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a supporting file for ps #3.'
-file: /media/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/75d5d973382d05f45e1680c8d838c09b_ps3sample1.htm
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/75d5d973382d05f45e1680c8d838c09b_ps3sample1.htm
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: ps3sample1.htm
 uid: 75d5d973-382d-05f4-5e16-80c8d838c09b
 ---
+This is a supporting file for ps #3.
+

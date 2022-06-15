@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for problem set 3.
-file: /media/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/e134478b24f2a3cf4bf7710104e493b4_language.txt
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/e134478b24f2a3cf4bf7710104e493b4_language.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: language.txt
 uid: e134478b-24f2-a3cf-4bf7-710104e493b4
 ---
+This is a supporting file for problem set 3.
+
