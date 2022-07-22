@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This calendar provides the lecture topics for the course, along with
+  links to corresponding lecture notes, problem sets, and quizzes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: c606f220-ad3e-5bb3-263b-6166d1a9b85f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This calendar provides the lecture topics for the course, along with links to corresponding lecture notes, problem sets, and quizzes. The pH Book reading assignments refer to the required textbook for the course:
