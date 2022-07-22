@@ -5,6 +5,7 @@ file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3sample1.txt
 uid: 24ab65b1-e820-263d-d70e-4d1016a83db7
 ---
 This resource is a supporting text file for ps 3.
-

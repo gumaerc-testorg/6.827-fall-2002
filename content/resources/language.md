@@ -5,6 +5,7 @@ file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: language.txt
 uid: e134478b-24f2-a3cf-4bf7-710104e493b4
 ---
 This is a supporting file for problem set 3.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/de2b0ad4601622858d781b1cd104ab81_suggestions.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: suggestions.pdf

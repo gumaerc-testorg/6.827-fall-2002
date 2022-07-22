@@ -7,6 +7,7 @@ file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to pattern matching, the match function, pH pattern matching, bind function, refutable vs irrefutable patterns, arrays, and vector sum.
-
