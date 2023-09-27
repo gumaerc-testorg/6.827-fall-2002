@@ -29,7 +29,7 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "fd8cca55-7cba-7dfd-a5e0-11b70ced56bd",
+    "content": "dffee8a8-13b8-4411-9e25-3a942e7386ae",
     "website": "6-827-multithreaded-parallelism-languages-and-compilers-fall-2002"
   },
   "course_title": "Multithreaded Parallelism: Languages and Compilers",
@@ -40,7 +40,7 @@
   "extra_course_numbers": "",
   "primary_course_number": "6.827",
   "course_image_thumbnail": {
-    "content": "a8c99808-efd5-1041-a741-30037038226f",
+    "content": "df63af64-8c1d-412c-bedb-9793caf100f6",
     "website": "6-827-multithreaded-parallelism-languages-and-compilers-fall-2002"
   },
   "learning_resource_types": [
@@ -49,6 +49,7 @@
     "Projects",
     "Programming Assignments"
   ],
-  "site_uid": "22cbcbf4-b6f4-4c40-a546-241f21ebbfb7",
+  "site_uid": "0b88cffb-0920-49eb-a620-ff30543c609d",
+  "site_short_id": "6.827-fall-2002",
   "title": "Course Metadata"
 }
