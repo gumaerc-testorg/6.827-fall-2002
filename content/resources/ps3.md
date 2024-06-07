@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set 3
 file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/6469940f04a09fa72cc7f173b7b6ec46_ps3.pdf
+file_size: 225157
 file_type: application/pdf
 learning_resource_types:
 - Assignments

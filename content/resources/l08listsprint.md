@@ -2,6 +2,7 @@
 content_type: resource
 description: Lists and Algebraic Types
 file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/a1b1d06c63ed2cbe8dd4acfc9eb83b0a_L08ListsPrint.pdf
+file_size: 62476
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

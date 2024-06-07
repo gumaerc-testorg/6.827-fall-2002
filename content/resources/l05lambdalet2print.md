@@ -2,6 +2,7 @@
 content_type: resource
 description: A [lambda]-calculus with Let-blocks (continued)
 file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/9921f4e50b3d1fc57c36aaf07adffdad_L05LambdaLet2Print.pdf
+file_size: 66459
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
