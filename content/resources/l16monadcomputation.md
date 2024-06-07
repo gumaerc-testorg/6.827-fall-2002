@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture Notes: Using Monads to Structure Computation'
 file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/137d9bcfb0cef5b225ad18c13bcd9e3c_L16MonadComputation.pdf
+file_size: 319757
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
