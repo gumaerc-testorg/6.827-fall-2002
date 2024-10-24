@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project Suggestions
-file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/73f9da6599916825e376a143e3248e69_suggestions.pdf
+file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/73f9da6599916825e376a143e3248e69_suggestions.pdf
 file_size: 133060
 file_type: application/pdf
 learning_resource_types:
