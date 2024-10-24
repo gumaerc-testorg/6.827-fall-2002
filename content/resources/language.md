@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for problem set 3.
-file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/e134478b24f2a3cf4bf7710104e493b4_language.txt
+file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/e134478b24f2a3cf4bf7710104e493b4_language.txt
 file_size: 19742
 file_type: text/plain
 learning_resource_types:
