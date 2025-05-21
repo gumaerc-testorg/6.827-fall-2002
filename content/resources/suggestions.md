@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/de2b0ad4601622858d781b1cd104ab81_suggestions.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/de2b0ad4601622858d781b1cd104ab81_suggestions.pdf
 file_size: 133060
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A [lambda]-calculus with Constants and Let-blocks
-file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/3fc2219b2a501484afc77fb7b7be1103_L04LambdaLetPrint.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/3fc2219b2a501484afc77fb7b7be1103_L04LambdaLetPrint.pdf
 file_size: 74104
 file_type: application/pdf
 learning_resource_types:
