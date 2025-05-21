@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a supporting file for ps #3.'
-file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/75d5d973382d05f45e1680c8d838c09b_ps3sample1.htm
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/75d5d973382d05f45e1680c8d838c09b_ps3sample1.htm
 file_size: 32250
 file_type: text/plain
 learning_resource_types:

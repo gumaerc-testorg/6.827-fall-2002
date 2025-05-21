@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Using Monads for Input and Output'
-file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/00a6338f3b09c1aae1b6fb4cdefab3eb_L15MonadsIO.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/00a6338f3b09c1aae1b6fb4cdefab3eb_L15MonadsIO.pdf
 file_size: 299755
 file_type: application/pdf
 learning_resource_types:

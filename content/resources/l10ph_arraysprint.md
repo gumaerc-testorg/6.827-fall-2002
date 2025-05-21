@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to pattern matching, the match
   function, pH pattern matching, bind function, refutable vs irrefutable patterns,
   arrays, and vector sum.
-file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/b91101c65a8cd6406c288a7d1ad588bd_L10pH_ArraysPrint.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/b91101c65a8cd6406c288a7d1ad588bd_L10pH_ArraysPrint.pdf
 file_size: 265789
 file_type: application/pdf
 learning_resource_types:
