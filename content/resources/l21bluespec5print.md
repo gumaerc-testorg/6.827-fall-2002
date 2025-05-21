@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Bluespec-5: Programming Examples'
-file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/7e71c2642de714c6020411f64b939153_L21Bluespec5Print.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/7e71c2642de714c6020411f64b939153_L21Bluespec5Print.pdf
 file_size: 345733
 file_type: application/pdf
 learning_resource_types:

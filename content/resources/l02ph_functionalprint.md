@@ -4,7 +4,7 @@ description: This resource contains information related to explicitly parallel f
   declarative programming, function execution by substitution, confluence, blocks,
   layout convention, lexical scoping, renaming bound identifiers, lexical scoping
   and a-renaming, and curried functions.
-file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/83f7842206da5f513f6d36d76815dbb8_L02pH_FunctionalPrint.pdf
+file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/83f7842206da5f513f6d36d76815dbb8_L02pH_FunctionalPrint.pdf
 file_size: 64790
 file_type: application/pdf
 learning_resource_types:
