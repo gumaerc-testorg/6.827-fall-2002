@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Hindley-Milner Type System
-file: /courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/d1b3ee33fab681428c7980b94cb11ffd_L06HindleyMilnerPrint.pdf
+file: /ol-ocw-studio-app/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/d1b3ee33fab681428c7980b94cb11ffd_L06HindleyMilnerPrint.pdf
 file_size: 69211
 file_type: application/pdf
 learning_resource_types:
