@@ -72,7 +72,7 @@ Implicitly Parallel Multithreaded Programming
 
 pH Book, Chapter 2
 
-Hudak, [_A Gentle Intro to Haskell_](http://www.haskell.org/tutorial/)
+Hudak, {{% resource_link "991432cb-838c-4c0e-880d-464b40e65dd3" "_A Gentle Intro to Haskell_" %}}
 
 
 {{< tdclose >}}
